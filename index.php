@@ -2,4 +2,4 @@
 
 echo "Hello, Heroku!!!";
 
-echo "Welcom! Xlabo menber";
+echo "Welcom! Xlabo member";
